@@ -3,7 +3,6 @@ name: Run R script to get Google Scholar citations
 on:
   schedule:
     - cron: '0 23 * * 5'
-  push:
 
 permissions: write-all
 
