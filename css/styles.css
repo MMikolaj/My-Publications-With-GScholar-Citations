@@ -1,0 +1,157 @@
+
+
+.journal {
+  font-style: italic;
+}
+
+.footer {
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 100%;
+  background-color: #e5e8ff;
+  width: 100%;
+  margin-top: 5px;
+  padding-top: 20px;
+  margin-bottom: : 5px;
+  text-align: justify;
+
+}
+
+.footer p {
+  padding-left: 20px;
+
+}
+
+.footer p a img {
+  max-height: 35px;
+}
+
+#socials .list-group-item {
+  background-color: #171a2f;
+}
+
+
+.btn {
+  white-space: nowrap;
+  margin-left: 0px;
+  margin-bottom: 10px;
+}
+
+.card {
+
+max-width: 100%;
+}
+
+li h3 {
+  margin-right: 20px;
+}
+
+
+.btn-outline-primary, .btn-outline-primary.disabled, .btn-outline-primary:disabled {
+    color: #171a2f;
+    border-color: #171a2f;
+}
+
+
+a {
+  color: white;
+    transition: 0.6s;
+}
+
+#bio h2, #bio h1, #bio h3, #footer p {
+    color:  white;
+}
+
+h1, h2, h3 {
+  color: #171a2f;
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .open>.dropdown-toggle.btn-outline-primary {
+    color: white;
+    background-color: #171a2f !important;
+    border-color: #171a2f !important; /*set the color you want here*/
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.nav a, #bio a, #footer a  {
+  color: #878892;
+  transition: 0.6s;
+  border-bottom: 1.5px dotted transparent;
+}
+ .nav a:hover, #bio a:hover, #footer a:hover  {
+  text-decoration: none;
+  color: #878892;
+  border-bottom: 1.5px dotted #878892;
+}
+
+
+#socials a {
+  /* color: #878892; */
+  transition: transform .2s;
+
+  border-bottom: 1.5px dotted transparent;
+}
+#socials a:hover {
+  text-decoration: none;
+
+  /* color: #878892; */
+  border-bottom: 1.5px dotted transparent;
+}
+
+#socials img {
+
+height: 32px;
+transition: transform .2s; /* Animation */
+
+
+}
+
+#socials img:hover {
+
+   transform: scale(1.5);
+
+}
+
+
+
+.menu-link {
+  font-size: 1.15em;
+  transition: 0.6s;
+  text-decoration: none;
+  border-bottom: 2px dotted transparent;
+  padding-bottom: 0px;
+  margin: 0 10px;
+}
+.menu-link:hover {
+  border-bottom: 2px dotted #878892;
+  padding-bottom: 2px;
+}
+
+.section-header {
+  margin-top: 20px;
+}
+
+body {
+  min-width: 450px;
+}
+
+.dont-break-out {
+
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+}
