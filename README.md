@@ -12,4 +12,4 @@ The R script can be executed regularly to provide updates of the citation on var
 
 `RCurl::ftpUpload(what="xml/My_Collection_With_Google_Citations.xml",       to="sftp://username:password@adress/My_Collection_With_Google_Citations.xml")`
 
-Other option is to use github actions. As it is done in this repository on a weekly basis.
+Other option is to use github actions, like it is done in this repository on a weekly basis.
