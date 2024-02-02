@@ -533,7 +533,7 @@
       </urls>
       <abstract>Size spectra are important descriptors of community structure and can indicate changes in community functioning in response to shifts in environmental conditions. There are relatively few assessments of benthic size spectra, and most are based on summer samples alone. Processes influencing size spectra, such as recruitment and predation pressure, vary seasonally, and understanding this variation is necessary to interpret patterns in time or space. Here we compare summer and winter biomass size spectra in the central basin of Kongsfjorden (west Spitsbergen). We recorded seasonal changes in the quality of organic matter available to the benthos, indicated by higher chloroplastic pigments concentrations in surface sediments in summer, as well as in differences in total abundance and biomass of both macrofauna and meiofauna. No significant seasonal differences were documented by multiple regression models for the normalized biomass and size classes. The slope of a linear relationship between normalized biomass and size classes was − 0.54 ± 0.02 indicating a productive system, compared to ecosystems like estuaries. Summer–winter invariability of size spectra suggests that benthic community functioning in this Arctic fjordic system is relatively independent from the seasonality in the supply of organic matter produced in water column.</abstract>
       <cid>16193816948220095227</cid>
-      <google_cites>15</google_cites>
+      <google_cites>16</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,5 +668,5 @@
       <google_cites>12</google_cites>
     </record>
   </records>
-  <last_update>2024-01-26 23:17</last_update>
+  <last_update>2024-02-02 23:18</last_update>
 </xml>
