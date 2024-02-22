@@ -11,6 +11,9 @@ $(document).ready(function(){
 
 $.get('xml/My_Collection_With_Google_Citations.xml', function(d){
 
+$('#citations').append($(d).find('author_citations'))
+$('#h_index').append($(d).find('author_h_index'))
+
 
 $(d).find('record').each(function(){
 

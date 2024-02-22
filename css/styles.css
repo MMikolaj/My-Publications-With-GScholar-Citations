@@ -26,8 +26,9 @@
   max-height: 35px;
 }
 
-#socials .list-group-item {
+#bio .list-group-item {
   background-color: #171a2f;
+  border: none;
 }
 
 
