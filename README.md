@@ -1,4 +1,4 @@
-# Listing your publications with Google Scholar citation data
+# Listing your publications with Google Scholar citation data on your personal webpage
 
 ## Introduction
 
