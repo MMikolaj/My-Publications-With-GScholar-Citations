@@ -6,16 +6,22 @@ library(scholar)
 library(xml2)
 library(fuzzyjoin)
 
+
 #### retrieving data from google scholar
 
-google_id <- "u4CfP-UAAAAJ" ## your google scholar id
+#### IMPORTANT !!!!!!!!!!!!!!!!!! #
+google_id <- "u4CfP-UAAAAJ" ## your GOOGLE SCHOLAR ID #
+
+#### author data 
+
+author <- get_profile(google_id)
+
+### publications
 
 pubs <- get_publications(google_id)
 
 ## lets check the results
 head(pubs)
-
-
 
 
 #### dealing with xml containing publication data ####
@@ -65,6 +71,12 @@ map2(xml_records, xml_pubs_w_doi$cid,
 ## and number of citations
 map2(xml_records, xml_pubs_w_doi$cites,
      ~xml_add_child(.x, "google_cites", .y))
+
+
+### adding author data
+
+xml_add_child(my_refs, "author_citations", author$total_cites, .where = "before")
+xml_add_child(my_refs, "author_h_index", author$h_index, .where = "before")
 
 
 ## inserts date and time of last update; just for housekeeping reasons

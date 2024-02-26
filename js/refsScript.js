@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
   /* extracts last name from html; later it will be used to bold the name in each reference */
-  var owner = $("#owner").text();
+  var owner = $("#author").text();
   var owner = owner.split(" ");
   var owner = owner[owner.length -1];
 
