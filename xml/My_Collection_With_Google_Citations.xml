@@ -41,7 +41,7 @@
         </web-urls>
       </urls>
       <cid>15227162335336107066</cid>
-      <google_cites>1</google_cites>
+      <google_cites>2</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>12</google_cites>
     </record>
   </records>
-  <author_citations>224</author_citations>
+  <author_citations>225</author_citations>
   <author_h_index>8</author_h_index>
-  <last_update>2024-02-26 11:56</last_update>
+  <last_update>2024-03-01 23:28</last_update>
 </xml>
