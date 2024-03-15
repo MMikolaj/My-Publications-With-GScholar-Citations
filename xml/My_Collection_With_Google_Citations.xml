@@ -144,7 +144,7 @@
         </web-urls>
       </urls>
       <cid>15373259585579930287</cid>
-      <google_cites>55</google_cites>
+      <google_cites>57</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -250,7 +250,7 @@
       </urls>
       <abstract>The blue mussel Mytilus spp. complex has re-appeared in the high Arctic in Svalbard after a thousand years, with the first recent indication of its appearance in 2002 at the mouth of Isfjorden on the west coast. We examine its genetic affinity to selected North Atlantic populations and the modes of spread that may be responsible for its recent re-colonisation. We record here its distribution on Svalbard archipelago along the north-western coastline and within Isfjorden collected over a seven years period. We record for the first time the intertidal occurrence that includes a presence close to a glacier front. Genetic composition of mussels Mytilus spp. from different Svalbard locations reveal similarities mainly with populations of M. edulis, M. trossulus and their hybrid from Western Europe, Faroe Island, Scotland and Norway. The re-introduction to Svalbard most probably involved shipping and natural or anthropogenic flotsam. It seems that a new transport vector - large plastic debris - plays a significant role in this process.</abstract>
       <cid>5573704949946846425</cid>
-      <google_cites>18</google_cites>
+      <google_cites>19</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -385,7 +385,7 @@
         </web-urls>
       </urls>
       <cid>16157326501337233762</cid>
-      <google_cites>31</google_cites>
+      <google_cites>30</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -429,7 +429,7 @@
       </urls>
       <abstract>Global warming is expected to cause reductions in organism body size, a fundamental biological unit important in determining biological processes. Possible effects of increasing temperature on biomass size spectra in coastal benthic communities were investigated. We hypothesized higher proportions of smaller size classes in warmer conditions. Soft bottom infauna samples were collected in six Norwegian and Svalbard fjords, spanning wide latitudinal (60–81°N) and bottom water temperature gradients (from −2 to 8 °C). Investigated fjords differed in terms of environmental settings (e.g., pigments or organic carbon in sediments). The slopes of normalised biomass size spectra (NBSS) did not differ among the fjords, while the benthic biomass and NBSS intercepts varied and were related to chlorophyll a and δ13C in sediments. The size spectra based on both abundance and biomass remained consistent, regardless of the strong variability in macrofauna taxonomic and functional trait composition. Variable relationships between temperature and body size were noted for particular taxa. Our results indicate that while benthic biomass depends on the nutritional quality of organic matter, its partitioning among size classes is consistent and independent of environmental and biological variability. The observed size structure remains a persistent feature of studied communities and may be resilient to major climatic changes.</abstract>
       <cid>13464209655969765675</cid>
-      <google_cites>18</google_cites>
+      <google_cites>19</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -615,7 +615,7 @@
       </urls>
       <abstract>Meiofaunal biomass, despite its ecological importance, is rarely assessed in marine ecological studies due to time-consuming and costly indirect procedures or inaccurate direct methods. Here, we present a semiautomated image analysis method for obtaining the widths and lengths of photographed nematodes that employs the Leica LAS Image Analysis module and is used to estimate Nematoda (a dominant marine meiofaunal taxon) biomass. Samples of 100 individual nematodes from 10 replicate samples representing two different environments (muddy fjord bottom and seagrass-vegetated sands) were used for the analyses, which were performed manually and semi-automatically. Manual measurements were taken by three independent analysts to check for individual differences. The automated measurements were collected almost two times faster than the manual ones. The three analysts and the computer did not differ in their assessments of nematode length, but significant differences existed among the measurements of maximum width by the three analysts (due to different designations of the point of nematode maximum width required by the manual method). For estimating individual nematode biomass, a formula using the equation for the volume of cylinder (one of the three tested in the study) is recommended. The total nematode biomass values obtained with this method were comparable to those reported from similar habitats. This semi-automated method seems to be less biased and more time and cost effective compared with standard manual protocols. The wider application of this method should facilitate the more frequent inclusion of meiofaunal biomass assessments in marine benthic surveys.</abstract>
       <cid>18181534491168061680</cid>
-      <google_cites>20</google_cites>
+      <google_cites>21</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>12</google_cites>
     </record>
   </records>
-  <author_citations>227</author_citations>
+  <author_citations>231</author_citations>
   <author_h_index>8</author_h_index>
-  <last_update>2024-03-08 23:19</last_update>
+  <last_update>2024-03-15 23:20</last_update>
 </xml>
