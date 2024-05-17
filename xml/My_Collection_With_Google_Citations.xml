@@ -342,7 +342,7 @@
       </urls>
       <abstract>Benthic megafauna (organisms large enough to be visible on seabed photographs) are regarded as important for carbon cycling in benthic habitats. They are a food source for many predators like fish and marine mammals and may stimulate carbon mineralization in sediment by bioturbation. However, few studies address these basic characteristics of megabenthos quantitatively. This study quantifies the spatial variability in standing stock (biomass) and functioning (secondary production, respiration and carbon demand) of benthic megafauna in fjords and on the continental shelf of Svalbard. Organisms were measured from sea bottom images to assess their biomass using length-weight relationships and volumetric methods, then respiration and production were estimated with empirical artificial neural network models. Significantly higher standing stock, secondary production, respiration, and carbon demand were found in fjords categorized as ‘cold’ (as defined by water temperature, prevailing water masses and ice-cover) than in the ‘warm’ ones. Cold fjords were dominated by Echinodermata, while in warm fjords Crustacea prevailed. All megafaunal community parameters were negatively correlated with bottom temperature. It was not possible to assess specific direct impacts of temperature, and indirect effects may be more relevant to our findings. These include temperature-driven changes in primary production, ice cover and ice-algae production or predation pressure from carnivores expanding their ranges northward. The progression of climate warming may affect megafaunal communities by reducing their biomass, production, and carbon demand and have profound effects on ecosystem functioning.</abstract>
       <cid>3236217325495242357</cid>
-      <google_cites>1</google_cites>
+      <google_cites>2</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -429,7 +429,7 @@
       </urls>
       <abstract>Global warming is expected to cause reductions in organism body size, a fundamental biological unit important in determining biological processes. Possible effects of increasing temperature on biomass size spectra in coastal benthic communities were investigated. We hypothesized higher proportions of smaller size classes in warmer conditions. Soft bottom infauna samples were collected in six Norwegian and Svalbard fjords, spanning wide latitudinal (60–81°N) and bottom water temperature gradients (from −2 to 8 °C). Investigated fjords differed in terms of environmental settings (e.g., pigments or organic carbon in sediments). The slopes of normalised biomass size spectra (NBSS) did not differ among the fjords, while the benthic biomass and NBSS intercepts varied and were related to chlorophyll a and δ13C in sediments. The size spectra based on both abundance and biomass remained consistent, regardless of the strong variability in macrofauna taxonomic and functional trait composition. Variable relationships between temperature and body size were noted for particular taxa. Our results indicate that while benthic biomass depends on the nutritional quality of organic matter, its partitioning among size classes is consistent and independent of environmental and biological variability. The observed size structure remains a persistent feature of studied communities and may be resilient to major climatic changes.</abstract>
       <cid>13464209655969765675</cid>
-      <google_cites>21</google_cites>
+      <google_cites>22</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -485,7 +485,7 @@
       </urls>
       <abstract>Fjords have been recently recognized as hot spots of organic carbon (Corg) sequestration in marine sediments. This study aims to identify regional and local drivers of variability of Corg burial in north Atlantic and Arctic fjords. We provide a comparative quantification of Corg, δ13C, photosynthetic pigments content, benthic biomass, consumption, Corg accumulation, and burial rates in sediments in six fjords (60–81°N). Higher sediment Corg content in southern Norway reflected longer phytoplankton growth season and higher productivity. Higher contributions of terrestrial Corg were noted in temperate/southern Norway (dense land vegetation and high precipitation) and Arctic/Svalbard (glacial erosion) than in subarctic/northern Norway locations. Benthic biomass and carbon consumption were best correlated to δ13C and photosynthetic pigments content indicating control by quality rather than quantity of available food. Benthic faunal consumption did not seem to affect the variability in Corg burial. Regional environmental factors (water temperature and latitude) combined with local factors (Corg, grain size, and pigment concentration) explained 94% of Corg burial variability. Based on the present study and literature data on Corg content, origin, and burial rates, the fjords were classified into four categories: temperate, subarctic, Arctic with glaciers, and Arctic without glaciers. The variability in marine productivity, terrestrial inflows, and carbon sequestration in fjords must be considered for global estimates of their role in blue carbon storage and for building scenarios of future changes in the course of climate warming.</abstract>
       <cid>9916549223428078689</cid>
-      <google_cites>42</google_cites>
+      <google_cites>43</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>13</google_cites>
     </record>
   </records>
-  <author_citations>248</author_citations>
+  <author_citations>251</author_citations>
   <author_h_index>8</author_h_index>
-  <last_update>2024-05-10 23:18</last_update>
+  <last_update>2024-05-17 23:19</last_update>
 </xml>
