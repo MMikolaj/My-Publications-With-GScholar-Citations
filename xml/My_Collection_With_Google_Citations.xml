@@ -144,7 +144,7 @@
         </web-urls>
       </urls>
       <cid>15373259585579930287</cid>
-      <google_cites>65</google_cites>
+      <google_cites>67</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -385,7 +385,7 @@
         </web-urls>
       </urls>
       <cid>16157326501337233762</cid>
-      <google_cites>35</google_cites>
+      <google_cites>36</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -485,7 +485,7 @@
       </urls>
       <abstract>Fjords have been recently recognized as hot spots of organic carbon (Corg) sequestration in marine sediments. This study aims to identify regional and local drivers of variability of Corg burial in north Atlantic and Arctic fjords. We provide a comparative quantification of Corg, δ13C, photosynthetic pigments content, benthic biomass, consumption, Corg accumulation, and burial rates in sediments in six fjords (60–81°N). Higher sediment Corg content in southern Norway reflected longer phytoplankton growth season and higher productivity. Higher contributions of terrestrial Corg were noted in temperate/southern Norway (dense land vegetation and high precipitation) and Arctic/Svalbard (glacial erosion) than in subarctic/northern Norway locations. Benthic biomass and carbon consumption were best correlated to δ13C and photosynthetic pigments content indicating control by quality rather than quantity of available food. Benthic faunal consumption did not seem to affect the variability in Corg burial. Regional environmental factors (water temperature and latitude) combined with local factors (Corg, grain size, and pigment concentration) explained 94% of Corg burial variability. Based on the present study and literature data on Corg content, origin, and burial rates, the fjords were classified into four categories: temperate, subarctic, Arctic with glaciers, and Arctic without glaciers. The variability in marine productivity, terrestrial inflows, and carbon sequestration in fjords must be considered for global estimates of their role in blue carbon storage and for building scenarios of future changes in the course of climate warming.</abstract>
       <cid>9916549223428078689</cid>
-      <google_cites>44</google_cites>
+      <google_cites>45</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -533,7 +533,7 @@
       </urls>
       <abstract>Size spectra are important descriptors of community structure and can indicate changes in community functioning in response to shifts in environmental conditions. There are relatively few assessments of benthic size spectra, and most are based on summer samples alone. Processes influencing size spectra, such as recruitment and predation pressure, vary seasonally, and understanding this variation is necessary to interpret patterns in time or space. Here we compare summer and winter biomass size spectra in the central basin of Kongsfjorden (west Spitsbergen). We recorded seasonal changes in the quality of organic matter available to the benthos, indicated by higher chloroplastic pigments concentrations in surface sediments in summer, as well as in differences in total abundance and biomass of both macrofauna and meiofauna. No significant seasonal differences were documented by multiple regression models for the normalized biomass and size classes. The slope of a linear relationship between normalized biomass and size classes was − 0.54 ± 0.02 indicating a productive system, compared to ecosystems like estuaries. Summer–winter invariability of size spectra suggests that benthic community functioning in this Arctic fjordic system is relatively independent from the seasonality in the supply of organic matter produced in water column.</abstract>
       <cid>16193816948220095227</cid>
-      <google_cites>17</google_cites>
+      <google_cites>18</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>13</google_cites>
     </record>
   </records>
-  <author_citations>261</author_citations>
+  <author_citations>266</author_citations>
   <author_h_index>8</author_h_index>
-  <last_update>2024-06-21 23:17</last_update>
+  <last_update>2024-06-28 23:19</last_update>
 </xml>
