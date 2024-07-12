@@ -41,7 +41,7 @@
         </web-urls>
       </urls>
       <cid>15227162335336107066</cid>
-      <google_cites>6</google_cites>
+      <google_cites>7</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -429,7 +429,7 @@
       </urls>
       <abstract>Global warming is expected to cause reductions in organism body size, a fundamental biological unit important in determining biological processes. Possible effects of increasing temperature on biomass size spectra in coastal benthic communities were investigated. We hypothesized higher proportions of smaller size classes in warmer conditions. Soft bottom infauna samples were collected in six Norwegian and Svalbard fjords, spanning wide latitudinal (60–81°N) and bottom water temperature gradients (from −2 to 8 °C). Investigated fjords differed in terms of environmental settings (e.g., pigments or organic carbon in sediments). The slopes of normalised biomass size spectra (NBSS) did not differ among the fjords, while the benthic biomass and NBSS intercepts varied and were related to chlorophyll a and δ13C in sediments. The size spectra based on both abundance and biomass remained consistent, regardless of the strong variability in macrofauna taxonomic and functional trait composition. Variable relationships between temperature and body size were noted for particular taxa. Our results indicate that while benthic biomass depends on the nutritional quality of organic matter, its partitioning among size classes is consistent and independent of environmental and biological variability. The observed size structure remains a persistent feature of studied communities and may be resilient to major climatic changes.</abstract>
       <cid>13464209655969765675</cid>
-      <google_cites>23</google_cites>
+      <google_cites>25</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>13</google_cites>
     </record>
   </records>
-  <author_citations>272</author_citations>
+  <author_citations>275</author_citations>
   <author_h_index>8</author_h_index>
-  <last_update>2024-07-05 23:18</last_update>
+  <last_update>2024-07-12 23:18</last_update>
 </xml>
