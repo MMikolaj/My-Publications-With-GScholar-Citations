@@ -41,7 +41,7 @@
         </web-urls>
       </urls>
       <cid>15227162335336107066</cid>
-      <google_cites>10</google_cites>
+      <google_cites>11</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -429,7 +429,7 @@
       </urls>
       <abstract>Global warming is expected to cause reductions in organism body size, a fundamental biological unit important in determining biological processes. Possible effects of increasing temperature on biomass size spectra in coastal benthic communities were investigated. We hypothesized higher proportions of smaller size classes in warmer conditions. Soft bottom infauna samples were collected in six Norwegian and Svalbard fjords, spanning wide latitudinal (60–81°N) and bottom water temperature gradients (from −2 to 8 °C). Investigated fjords differed in terms of environmental settings (e.g., pigments or organic carbon in sediments). The slopes of normalised biomass size spectra (NBSS) did not differ among the fjords, while the benthic biomass and NBSS intercepts varied and were related to chlorophyll a and δ13C in sediments. The size spectra based on both abundance and biomass remained consistent, regardless of the strong variability in macrofauna taxonomic and functional trait composition. Variable relationships between temperature and body size were noted for particular taxa. Our results indicate that while benthic biomass depends on the nutritional quality of organic matter, its partitioning among size classes is consistent and independent of environmental and biological variability. The observed size structure remains a persistent feature of studied communities and may be resilient to major climatic changes.</abstract>
       <cid>13464209655969765675</cid>
-      <google_cites>25</google_cites>
+      <google_cites>26</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -485,7 +485,7 @@
       </urls>
       <abstract>Fjords have been recently recognized as hot spots of organic carbon (Corg) sequestration in marine sediments. This study aims to identify regional and local drivers of variability of Corg burial in north Atlantic and Arctic fjords. We provide a comparative quantification of Corg, δ13C, photosynthetic pigments content, benthic biomass, consumption, Corg accumulation, and burial rates in sediments in six fjords (60–81°N). Higher sediment Corg content in southern Norway reflected longer phytoplankton growth season and higher productivity. Higher contributions of terrestrial Corg were noted in temperate/southern Norway (dense land vegetation and high precipitation) and Arctic/Svalbard (glacial erosion) than in subarctic/northern Norway locations. Benthic biomass and carbon consumption were best correlated to δ13C and photosynthetic pigments content indicating control by quality rather than quantity of available food. Benthic faunal consumption did not seem to affect the variability in Corg burial. Regional environmental factors (water temperature and latitude) combined with local factors (Corg, grain size, and pigment concentration) explained 94% of Corg burial variability. Based on the present study and literature data on Corg content, origin, and burial rates, the fjords were classified into four categories: temperate, subarctic, Arctic with glaciers, and Arctic without glaciers. The variability in marine productivity, terrestrial inflows, and carbon sequestration in fjords must be considered for global estimates of their role in blue carbon storage and for building scenarios of future changes in the course of climate warming.</abstract>
       <cid>9916549223428078689</cid>
-      <google_cites>46</google_cites>
+      <google_cites>47</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -615,7 +615,7 @@
       </urls>
       <abstract>Meiofaunal biomass, despite its ecological importance, is rarely assessed in marine ecological studies due to time-consuming and costly indirect procedures or inaccurate direct methods. Here, we present a semiautomated image analysis method for obtaining the widths and lengths of photographed nematodes that employs the Leica LAS Image Analysis module and is used to estimate Nematoda (a dominant marine meiofaunal taxon) biomass. Samples of 100 individual nematodes from 10 replicate samples representing two different environments (muddy fjord bottom and seagrass-vegetated sands) were used for the analyses, which were performed manually and semi-automatically. Manual measurements were taken by three independent analysts to check for individual differences. The automated measurements were collected almost two times faster than the manual ones. The three analysts and the computer did not differ in their assessments of nematode length, but significant differences existed among the measurements of maximum width by the three analysts (due to different designations of the point of nematode maximum width required by the manual method). For estimating individual nematode biomass, a formula using the equation for the volume of cylinder (one of the three tested in the study) is recommended. The total nematode biomass values obtained with this method were comparable to those reported from similar habitats. This semi-automated method seems to be less biased and more time and cost effective compared with standard manual protocols. The wider application of this method should facilitate the more frequent inclusion of meiofaunal biomass assessments in marine benthic surveys.</abstract>
       <cid>18181534491168061680</cid>
-      <google_cites>21</google_cites>
+      <google_cites>22</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>13</google_cites>
     </record>
   </records>
-  <author_citations>292</author_citations>
+  <author_citations>296</author_citations>
   <author_h_index>9</author_h_index>
-  <last_update>2024-08-30 23:20</last_update>
+  <last_update>2024-09-06 23:20</last_update>
 </xml>
