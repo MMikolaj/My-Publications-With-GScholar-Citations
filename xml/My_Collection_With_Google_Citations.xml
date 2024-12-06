@@ -41,7 +41,7 @@
         </web-urls>
       </urls>
       <cid>15227162335336107066</cid>
-      <google_cites>19</google_cites>
+      <google_cites>18</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -385,7 +385,7 @@
         </web-urls>
       </urls>
       <cid>16157326501337233762</cid>
-      <google_cites>38</google_cites>
+      <google_cites>39</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -615,7 +615,7 @@
       </urls>
       <abstract>Meiofaunal biomass, despite its ecological importance, is rarely assessed in marine ecological studies due to time-consuming and costly indirect procedures or inaccurate direct methods. Here, we present a semiautomated image analysis method for obtaining the widths and lengths of photographed nematodes that employs the Leica LAS Image Analysis module and is used to estimate Nematoda (a dominant marine meiofaunal taxon) biomass. Samples of 100 individual nematodes from 10 replicate samples representing two different environments (muddy fjord bottom and seagrass-vegetated sands) were used for the analyses, which were performed manually and semi-automatically. Manual measurements were taken by three independent analysts to check for individual differences. The automated measurements were collected almost two times faster than the manual ones. The three analysts and the computer did not differ in their assessments of nematode length, but significant differences existed among the measurements of maximum width by the three analysts (due to different designations of the point of nematode maximum width required by the manual method). For estimating individual nematode biomass, a formula using the equation for the volume of cylinder (one of the three tested in the study) is recommended. The total nematode biomass values obtained with this method were comparable to those reported from similar habitats. This semi-automated method seems to be less biased and more time and cost effective compared with standard manual protocols. The wider application of this method should facilitate the more frequent inclusion of meiofaunal biomass assessments in marine benthic surveys.</abstract>
       <cid>18181534491168061680</cid>
-      <google_cites>22</google_cites>
+      <google_cites>23</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -670,5 +670,5 @@
   </records>
   <author_citations>327</author_citations>
   <author_h_index>10</author_h_index>
-  <last_update>2024-11-29 23:21</last_update>
+  <last_update>2024-12-06 23:21</last_update>
 </xml>
