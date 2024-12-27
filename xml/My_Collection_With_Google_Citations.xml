@@ -41,7 +41,7 @@
         </web-urls>
       </urls>
       <cid>15227162335336107066</cid>
-      <google_cites>19</google_cites>
+      <google_cites>20</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -144,7 +144,7 @@
         </web-urls>
       </urls>
       <cid>15373259585579930287</cid>
-      <google_cites>87</google_cites>
+      <google_cites>89</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -298,7 +298,7 @@
         </web-urls>
       </urls>
       <cid>15197318823349045288</cid>
-      <google_cites>4</google_cites>
+      <google_cites>5</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>15</google_cites>
     </record>
   </records>
-  <author_citations>333</author_citations>
+  <author_citations>337</author_citations>
   <author_h_index>10</author_h_index>
-  <last_update>2024-12-20 23:19</last_update>
+  <last_update>2024-12-27 23:19</last_update>
 </xml>
