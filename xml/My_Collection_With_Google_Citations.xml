@@ -93,7 +93,7 @@
       </urls>
       <abstract>Glacier surfaces are the most biologically productive parts of glaciers with a variety of organisms and habitats. However, distinctiveness of habitats and communities of dominant invertebrate consumers on the ice surface is poorly documented. We focused on dominant consumers in three supraglacial (on the glacier surface) habitats on the alpine glacier Forni – cryoconite holes (water-filled reservoirs with a thin layer of sediment at the bottom), supraglacial debris (layer of stones and gravel covering glacier surface), and surface ice of the weathering crust. We analyzed carbon and nitrogen contents and stable isotope ratios (δ13C, δ15N), organic matter (OM) content, biomass of consumers, and the community composition of consumers to investigate differences between supraglacial habitats. In cryoconite holes, tardigrades (Tardigrada) were dominant consumers. In supraglacial debris, only springtails (Collembola) occurred mainly between stones and ice. No active animals were found in the surface ice of the weathering crust. Carbon and nitrogen contents, δ13C, and δ15N of invertebrates and OM differed between habitats. Cryoconite was enriched in OM with high δ13C and low δ15N compared to supraglacial debris likely indicating differences in major components of OM serving as food of invertebrates. Also, the OM, and carbon and nitrogen contents differed between habitats with the highest concentration in cryoconite. The dry biomass of tardigrades was similar compared to springtails. We present the first observation of differences between supraglacial habitats in the Alps based on the community composition of invertebrates, OM and stable isotopes. This initial study highlights the importance of differences in habitats and its consumers in the functioning of supraglacial ecosystem.</abstract>
       <cid>12732748239548719735</cid>
-      <google_cites>5</google_cites>
+      <google_cites>6</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -429,7 +429,7 @@
       </urls>
       <abstract>Global warming is expected to cause reductions in organism body size, a fundamental biological unit important in determining biological processes. Possible effects of increasing temperature on biomass size spectra in coastal benthic communities were investigated. We hypothesized higher proportions of smaller size classes in warmer conditions. Soft bottom infauna samples were collected in six Norwegian and Svalbard fjords, spanning wide latitudinal (60–81°N) and bottom water temperature gradients (from −2 to 8 °C). Investigated fjords differed in terms of environmental settings (e.g., pigments or organic carbon in sediments). The slopes of normalised biomass size spectra (NBSS) did not differ among the fjords, while the benthic biomass and NBSS intercepts varied and were related to chlorophyll a and δ13C in sediments. The size spectra based on both abundance and biomass remained consistent, regardless of the strong variability in macrofauna taxonomic and functional trait composition. Variable relationships between temperature and body size were noted for particular taxa. Our results indicate that while benthic biomass depends on the nutritional quality of organic matter, its partitioning among size classes is consistent and independent of environmental and biological variability. The observed size structure remains a persistent feature of studied communities and may be resilient to major climatic changes.</abstract>
       <cid>13464209655969765675</cid>
-      <google_cites>26</google_cites>
+      <google_cites>25</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -615,7 +615,7 @@
       </urls>
       <abstract>Meiofaunal biomass, despite its ecological importance, is rarely assessed in marine ecological studies due to time-consuming and costly indirect procedures or inaccurate direct methods. Here, we present a semiautomated image analysis method for obtaining the widths and lengths of photographed nematodes that employs the Leica LAS Image Analysis module and is used to estimate Nematoda (a dominant marine meiofaunal taxon) biomass. Samples of 100 individual nematodes from 10 replicate samples representing two different environments (muddy fjord bottom and seagrass-vegetated sands) were used for the analyses, which were performed manually and semi-automatically. Manual measurements were taken by three independent analysts to check for individual differences. The automated measurements were collected almost two times faster than the manual ones. The three analysts and the computer did not differ in their assessments of nematode length, but significant differences existed among the measurements of maximum width by the three analysts (due to different designations of the point of nematode maximum width required by the manual method). For estimating individual nematode biomass, a formula using the equation for the volume of cylinder (one of the three tested in the study) is recommended. The total nematode biomass values obtained with this method were comparable to those reported from similar habitats. This semi-automated method seems to be less biased and more time and cost effective compared with standard manual protocols. The wider application of this method should facilitate the more frequent inclusion of meiofaunal biomass assessments in marine benthic surveys.</abstract>
       <cid>18181534491168061680</cid>
-      <google_cites>24</google_cites>
+      <google_cites>23</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>15</google_cites>
     </record>
   </records>
-  <author_citations>339</author_citations>
+  <author_citations>338</author_citations>
   <author_h_index>10</author_h_index>
-  <last_update>2025-01-03 23:20</last_update>
+  <last_update>2025-01-10 23:31</last_update>
 </xml>
