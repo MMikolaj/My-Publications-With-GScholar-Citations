@@ -144,7 +144,7 @@
         </web-urls>
       </urls>
       <cid>15373259585579930287</cid>
-      <google_cites>95</google_cites>
+      <google_cites>96</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>16</google_cites>
     </record>
   </records>
-  <author_citations>360</author_citations>
+  <author_citations>361</author_citations>
   <author_h_index>10</author_h_index>
-  <last_update>2025-03-14 23:33</last_update>
+  <last_update>2025-03-21 23:20</last_update>
 </xml>
