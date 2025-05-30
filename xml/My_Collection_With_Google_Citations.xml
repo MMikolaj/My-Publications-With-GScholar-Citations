@@ -41,7 +41,7 @@
         </web-urls>
       </urls>
       <cid>15227162335336107066</cid>
-      <google_cites>25</google_cites>
+      <google_cites>31</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -93,7 +93,7 @@
       </urls>
       <abstract>Glacier surfaces are the most biologically productive parts of glaciers with a variety of organisms and habitats. However, distinctiveness of habitats and communities of dominant invertebrate consumers on the ice surface is poorly documented. We focused on dominant consumers in three supraglacial (on the glacier surface) habitats on the alpine glacier Forni – cryoconite holes (water-filled reservoirs with a thin layer of sediment at the bottom), supraglacial debris (layer of stones and gravel covering glacier surface), and surface ice of the weathering crust. We analyzed carbon and nitrogen contents and stable isotope ratios (δ13C, δ15N), organic matter (OM) content, biomass of consumers, and the community composition of consumers to investigate differences between supraglacial habitats. In cryoconite holes, tardigrades (Tardigrada) were dominant consumers. In supraglacial debris, only springtails (Collembola) occurred mainly between stones and ice. No active animals were found in the surface ice of the weathering crust. Carbon and nitrogen contents, δ13C, and δ15N of invertebrates and OM differed between habitats. Cryoconite was enriched in OM with high δ13C and low δ15N compared to supraglacial debris likely indicating differences in major components of OM serving as food of invertebrates. Also, the OM, and carbon and nitrogen contents differed between habitats with the highest concentration in cryoconite. The dry biomass of tardigrades was similar compared to springtails. We present the first observation of differences between supraglacial habitats in the Alps based on the community composition of invertebrates, OM and stable isotopes. This initial study highlights the importance of differences in habitats and its consumers in the functioning of supraglacial ecosystem.</abstract>
       <cid>12732748239548719735</cid>
-      <google_cites>5</google_cites>
+      <google_cites>7</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -144,7 +144,7 @@
         </web-urls>
       </urls>
       <cid>15373259585579930287</cid>
-      <google_cites>97</google_cites>
+      <google_cites>102</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -385,7 +385,7 @@
         </web-urls>
       </urls>
       <cid>16157326501337233762</cid>
-      <google_cites>47</google_cites>
+      <google_cites>48</google_cites>
     </record>
     <record>
       <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
@@ -668,7 +668,7 @@
       <google_cites>16</google_cites>
     </record>
   </records>
-  <author_citations>364</author_citations>
+  <author_citations>379</author_citations>
   <author_h_index>10</author_h_index>
-  <last_update>2025-03-28 23:33</last_update>
+  <last_update>2025-05-30 23:33</last_update>
 </xml>
