@@ -1,6 +1,9 @@
 name: Run R script to get Google Scholar citations
 
 on:
+  push:
+      branches:
+        - main
   schedule:
     - cron: '0 23 * * 5'
 
