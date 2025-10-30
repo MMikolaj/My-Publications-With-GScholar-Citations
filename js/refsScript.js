@@ -14,7 +14,7 @@ $.get('xml/My_Collection_With_Google_Citations.xml', function(d){
 $('#citations').append($(d).find('author_citations'))
 $('#h_index').append($(d).find('author_h_index'))
 
-// sort publications by year descending
+// Sort publications by year descending
 
   var $records = $(d).find('record');
 
