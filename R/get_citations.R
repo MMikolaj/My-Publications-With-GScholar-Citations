@@ -26,7 +26,8 @@ head(pubs)
 
 #### dealing with xml containing publication data ####
 
-xml_path <- "xml/My Collection.xml"
+xml_path <- "xml/My_Collection.xml" ## IMPORTANT: check the name of your file
+
 
 ## reading xml
 my_refs <-read_xml(xml_path)
@@ -57,7 +58,7 @@ title_doi_df <- data.frame(title=xml_text(xml_titles),
 
 xml_pubs_w_doi <- stringdist_inner_join(title_doi_df, pubs,
                               by="title", 
-                              max_dist=12) ## max dist is quite large, but, sometime titles may differ a lot
+                              max_dist=12, ignore_case=T) ## max dist is quite large, but, sometime titles may differ a lot
 
 head(xml_pubs_w_doi)
 
