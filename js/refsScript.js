@@ -14,8 +14,21 @@ $.get('xml/My_Collection_With_Google_Citations.xml', function(d){
 $('#citations').append($(d).find('author_citations'))
 $('#h_index').append($(d).find('author_h_index'))
 
+// sort publications by year descending
 
-$(d).find('record').each(function(){
+  var $records = $(d).find('record');
+
+  var $sortedRecords = $records.sort(function(a, b) {
+
+      var yearA = parseInt($(a).find('year').text());
+  
+      var yearB = parseInt($(b).find('year').text());
+      
+      return yearB - yearA; 
+  });
+
+
+  $sortedRecords.each(function(){
 
 
   var $paper = $(this);
