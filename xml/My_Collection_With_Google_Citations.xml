@@ -99,7 +99,7 @@
       </urls>
       <access-date>2024-01-03 20:44:52</access-date>
       <cid>15227162335336107066</cid>
-      <google_cites>49</google_cites>
+      <google_cites>51</google_cites>
     </record>
     <record>
       <database name="MyLibrary">MyLibrary</database>
@@ -152,7 +152,7 @@
       </urls>
       <access-date>2024-01-03 20:41:43</access-date>
       <cid>15373259585579930287</cid>
-      <google_cites>116</google_cites>
+      <google_cites>118</google_cites>
     </record>
     <record>
       <database name="MyLibrary">MyLibrary</database>
@@ -563,7 +563,7 @@
       </urls>
       <access-date>2024-01-03 20:27:55</access-date>
       <cid>9916549223428078689</cid>
-      <google_cites>61</google_cites>
+      <google_cites>62</google_cites>
     </record>
     <record>
       <database name="MyLibrary">MyLibrary</database>
@@ -667,7 +667,7 @@
       </urls>
       <access-date>2024-01-03 20:26:33</access-date>
       <cid>16157326501337233762</cid>
-      <google_cites>57</google_cites>
+      <google_cites>58</google_cites>
     </record>
     <record>
       <database name="MyLibrary">MyLibrary</database>
@@ -1001,7 +1001,7 @@
       <google_cites>0</google_cites>
     </record>
   </records>
-  <author_citations>446</author_citations>
+  <author_citations>452</author_citations>
   <author_h_index>10</author_h_index>
-  <last_update>2025-10-30 11:45</last_update>
+  <last_update>2025-11-14 23:33</last_update>
 </xml>
