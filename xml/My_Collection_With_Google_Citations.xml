@@ -99,7 +99,7 @@
       </urls>
       <access-date>2024-01-03 20:44:52</access-date>
       <cid>15227162335336107066</cid>
-      <google_cites>73</google_cites>
+      <google_cites>74</google_cites>
     </record>
     <record>
       <database name="MyLibrary">MyLibrary</database>
@@ -151,7 +151,7 @@
         </pdf-urls>
       </urls>
       <access-date>2024-01-03 20:41:43</access-date>
-      <cid>15373259585579930287</cid>
+      <cid>15373259585579930287,14081172798334666898</cid>
       <google_cites>131</google_cites>
     </record>
     <record>
@@ -344,7 +344,7 @@
       </urls>
       <access-date>2024-01-03 20:34:05</access-date>
       <cid>3236217325495242357</cid>
-      <google_cites>2</google_cites>
+      <google_cites>3</google_cites>
     </record>
     <record>
       <database name="MyLibrary">MyLibrary</database>
@@ -1001,7 +1001,7 @@
       <google_cites>1</google_cites>
     </record>
   </records>
-  <author_citations>530</author_citations>
+  <author_citations>527</author_citations>
   <author_h_index>11</author_h_index>
-  <last_update>2026-04-17 23:55</last_update>
+  <last_update>2026-04-24 23:48</last_update>
 </xml>
